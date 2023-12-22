@@ -14,11 +14,7 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {
-      "@handle-my-house/generated/backend-types": [
-        "generated/backend-types/src/index.ts"
-      ]
-    }
+    "paths": {}
   },
   "exclude": ["node_modules", "tmp"]
 }
